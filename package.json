@@ -1,0 +1,25 @@
+{
+  "name": "mysqlhomework",
+  "version": "1.0.0",
+  "description": "# Node.js & MySQL",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celacouture/MySQLHomework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celacouture/MySQLHomework/issues"
+  },
+  "homepage": "https://github.com/celacouture/MySQLHomework#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0",
+    "sql-promise": "0.0.19"
+  }
+}
